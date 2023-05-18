@@ -17,6 +17,7 @@ header{
     display: flex;
 }
 
+
 header h1{
     margin-top: 2em;
     margin-left: 11em;
@@ -75,6 +76,10 @@ button{
     background-color: black;
     color: white;
     opacity: 0.61;
+}
+
+#btArt{
+    margin-top : 1em
 }
 
 .menu button:hover{
@@ -154,17 +159,6 @@ button{
     margin: 2.2em;
 }
 
-#portrait {
-    margin-top: 0;
-}
-
-#portrait .image{
-    border : 5px solid black;
-    width: 20em;
-    height: 25em;
-    margin: 2.2em;
-    margin-left: 4.5em;
-}
 
 header button{
     margin-top: 3em;
